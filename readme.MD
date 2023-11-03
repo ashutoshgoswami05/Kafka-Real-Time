@@ -1,1 +1,0 @@
-This is practice project where apache kafka was used to process real time stream data from wikimedia stream and it was processed through java pojo classes by converting to json objects and finally writing it to xml file.
